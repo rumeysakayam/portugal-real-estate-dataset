@@ -1,0 +1,24 @@
+# Data files (too large for GitHub)
+data/
+*.geojson
+*.pbf
+*.csv
+*.shp
+*.gpkg
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large outputs
+*.html
+*.png
